@@ -1,0 +1,120 @@
+canonical_identifier: bkk:krp/KR4k0276/v1
+canonical_location: https://kanripo.org/bkk/KR4k0276/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0276_000.yaml, hash: 'sha256:280e87841b1f62f438bc1279950631f85468164458674bdef8258af96f2d42e6'}
+  - {seq: 1, filename: KR4k0276_001.yaml, hash: 'sha256:23130532013ab07a8fe60eab0a3f7d5ad901f99eb3dcb8b3953d6f8584be39d6'}
+  - {seq: 2, filename: KR4k0276_002.yaml, hash: 'sha256:eeadf9fdd645b3e3b482242aee87c948aa02ba7d081b809667ddc5ed2d2212af'}
+  - {seq: 3, filename: KR4k0276_003.yaml, hash: 'sha256:faaab43b86cf4c9596763f0f9f805546a20405ad1ac42efd7adc1da9026d1f49'}
+  - {seq: 4, filename: KR4k0276_004.yaml, hash: 'sha256:79f671b1f347baf25c41f5f66bddd2e144059e9e6ab681f6e5fbbfe61977a3dd'}
+  - {seq: 5, filename: KR4k0276_005.yaml, hash: 'sha256:67137631056e394c3b477633aa1ec012879c6d9f43d1b245dc89c20befc1b574'}
+  - {seq: 6, filename: KR4k0276_006.yaml, hash: 'sha256:ed73aa3be553a916ebebd4a89df7b2415a3a277974b5b0b9b63dd30c7a5639ba'}
+  - {seq: 7, filename: KR4k0276_007.yaml, hash: 'sha256:ccd87be695cf09d243f47b2aaaeb5d79e74b51385b7bcf12b795aa633ce61f23'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0276_000.markers.yaml, hash: 'sha256:300d0d1415daceaee769000f5bd0fa226572ec9c7cf82366bc923b29fd2cef9d'}
+  - {seq: 1, role: markers, filename: assets/KR4k0276_001.markers.yaml, hash: 'sha256:be7895a7450490cb594fe15dd8282bfcb3dd4a42704dffa1bf6e4992f9a1112c'}
+  - {seq: 2, role: markers, filename: assets/KR4k0276_002.markers.yaml, hash: 'sha256:c05d9f217a11582f0e0a00d23a7a9edc285b24127e5c526cd8b309196918c7ad'}
+  - {seq: 3, role: markers, filename: assets/KR4k0276_003.markers.yaml, hash: 'sha256:1bcd0b8ed7b20cf07db367270d47ac3f5c810699c71dd8c5d90679f470157ace'}
+  - {seq: 4, role: markers, filename: assets/KR4k0276_004.markers.yaml, hash: 'sha256:dce2f8fe5455e305eaee2cf107ade486c814ee823cef7d68b09c3662c715a6f2'}
+  - {seq: 5, role: markers, filename: assets/KR4k0276_005.markers.yaml, hash: 'sha256:2fe6e52f9696378e64e624bd77ed25e0204df7c9990826041a77a44a360db26e'}
+  - {seq: 6, role: markers, filename: assets/KR4k0276_006.markers.yaml, hash: 'sha256:8dbd07788f9f31e05885a31615d0452d2fbf9d48b0937761e0f762e42a4b77d1'}
+  - {seq: 7, role: markers, filename: assets/KR4k0276_007.markers.yaml, hash: 'sha256:17dea4e7bde5a26023465130dffaf40f18b0405bbdf03e60ffd222275cd3bb53'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0276_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 16339
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0276_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 6588
+  label: 第四回吳提督大戰漢城
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0276_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 8838
+  label: 第六回中日因韓定條約
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4k0276_kf_003-h.1
+    span:
+    - body
+    - 0
+    - 2466
+  label: 第八回雲在霄首誅袒日黨
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4k0276_kf_004-h.1
+    span:
+    - body
+    - 0
+    - 29633
+  label: 第九回金玉均寄書完用
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4k0276_kf_005-h.1
+    span:
+    - body
+    - 0
+    - 21939
+  label: 第十八回索國債監埋財政
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4k0276_kf_006-h.1
+    span:
+    - body
+    - 0
+    - 9532
+  label: 第二十三回安志士歸國吊恩師
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4k0276_kf_007-h.1
+    span:
+    - body
+    - 0
+    - 2531
+  label: 第二十六回既合併英雄徒落淚
+  type: section
+  level: 1
+metadata:
+  title: 英雄淚
+  identifiers:
+    krp: KR4k0276
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0276.xml
+  edition:
+    short: bkk
+hash: sha256:eff08fb96f8da4e2a688c19add616f5a4edccfc5871e2938f30ad064ddec8c0e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

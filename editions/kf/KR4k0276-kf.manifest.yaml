@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR4k0276/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0276/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0276_000-kf.yaml, hash: 'sha256:1658dfbd82ed46ce4f9a9598b99481da91c047ca0c409a372de1f1439b5ece76'}
+  - {seq: 1, filename: KR4k0276_001-kf.yaml, hash: 'sha256:0c8fe6e2bd56ee67ef2aadd625fcd6cee8b4e1d63cbaff3c96cb38475de282be'}
+  - {seq: 2, filename: KR4k0276_002-kf.yaml, hash: 'sha256:4066ee0118de629b3a9d744c37c34e28c0f3a8f826adc9605b476cfd99e13432'}
+  - {seq: 3, filename: KR4k0276_003-kf.yaml, hash: 'sha256:bd89d03ea597907fadb40720d284c6353fad65fffba92705ce93f90114987210'}
+  - {seq: 4, filename: KR4k0276_004-kf.yaml, hash: 'sha256:e1efc6fb13422514aa7d7c0221a55a6ffe76592216c6d1e25570da74f08359eb'}
+  - {seq: 5, filename: KR4k0276_005-kf.yaml, hash: 'sha256:f12878e63725c994ca4d0759b8a399808f686eab4ace77644d0c7fe3b8647d1d'}
+  - {seq: 6, filename: KR4k0276_006-kf.yaml, hash: 'sha256:0a0644251c3a604acb15e51dc265391e67578f46d38f1bfcca2fee9eb4822099'}
+  - {seq: 7, filename: KR4k0276_007-kf.yaml, hash: 'sha256:d224463813166d281a11a56d4c92e384365e1322f2ab3d6804e0301b90c575ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0276_000-kf.markers.yaml, hash: 'sha256:81715384e1e903e1f7207e1faa29b10f3802c9b1bdeefd80ae09cef2068b7825'}
+  - {seq: 1, role: markers, filename: assets/KR4k0276_001-kf.markers.yaml, hash: 'sha256:70fd423eb6ebc83631377e3eccec07b5eff6903f9caeb06a24aa546cad6c3a23'}
+  - {seq: 2, role: markers, filename: assets/KR4k0276_002-kf.markers.yaml, hash: 'sha256:0847d4b095975b2c08b9961cf5f40f907e9e201029405841d6347a0eb803c95e'}
+  - {seq: 3, role: markers, filename: assets/KR4k0276_003-kf.markers.yaml, hash: 'sha256:df96395f68fe9c69d031ea75970d13075fc26f069d11bf640bb76f8616e38763'}
+  - {seq: 4, role: markers, filename: assets/KR4k0276_004-kf.markers.yaml, hash: 'sha256:1c37c48787d1419fbb24208f56c6ae8f45cf8bf178ab74bf63297682b8e8e6d0'}
+  - {seq: 5, role: markers, filename: assets/KR4k0276_005-kf.markers.yaml, hash: 'sha256:b09ba35a8f13b832c3984a9f9ac8171697e708292a3ca2201f2c104943ca0425'}
+  - {seq: 6, role: markers, filename: assets/KR4k0276_006-kf.markers.yaml, hash: 'sha256:30f650e37bc609c08f72acb0f9d06e8617a561959cd9aa8255e18a91815e6550'}
+  - {seq: 7, role: markers, filename: assets/KR4k0276_007-kf.markers.yaml, hash: 'sha256:738e5b47cf490583891635565b6a664dccdd279993533f0bee9df46c09a3c87f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0276_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 16339
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0276_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 6588
+  label: 第四回吳提督大戰漢城
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0276_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 8838
+  label: 第六回中日因韓定條約
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4k0276_kf_003-h.1
+    span:
+    - body
+    - 0
+    - 2466
+  label: 第八回雲在霄首誅袒日黨
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4k0276_kf_004-h.1
+    span:
+    - body
+    - 0
+    - 29633
+  label: 第九回金玉均寄書完用
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4k0276_kf_005-h.1
+    span:
+    - body
+    - 0
+    - 21939
+  label: 第十八回索國債監埋財政
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4k0276_kf_006-h.1
+    span:
+    - body
+    - 0
+    - 9532
+  label: 第二十三回安志士歸國吊恩師
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4k0276_kf_007-h.1
+    span:
+    - body
+    - 0
+    - 2531
+  label: 第二十六回既合併英雄徒落淚
+  type: section
+  level: 1
+metadata:
+  title: 英雄淚
+  identifiers:
+    krp: KR4k0276
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0276.xml
+  edition:
+    short: kf
+hash: sha256:0dd530afd685fc98d2fde49f94e3789e888146925acaf4c7d00f206b660522eb
